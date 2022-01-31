@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneca BIC preta",
+      "price": 2.25
+    },
+    {
+      "id": 2,
+      "name": "Caneca BIC azul",
+      "price": 2.25
+    },
+    {
+      "id": 3,
+      "name": "Caneca BIC vermelha",
+      "price": 2.1
+    },
+    {
+      "id": 4,
+      "name": "Caderno Escolar Frida Khalo",
+      "price": 21.5
+    },
+    {
+      "name": "Monitor Samsung 21 polegadas",
+      "price": "750.00",
+      "id": 5
+    },
+    {
+      "name": "Smartphone Samsung Galaxy S20+ ",
+      "price": "3000.00",
+      "id": 6
+    }
+  ]
+}
